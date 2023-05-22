@@ -1,4 +1,4 @@
-Hi there, I am Marwan Oladele👋 <br/>
+Hi there, I am Marwan Oladele. <br/>
 Welcome to my repository! <br/><br/>
 <a href="https://github.com/marwanoladele">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marwanoladele&theme=buefy&show_icons=true" />
